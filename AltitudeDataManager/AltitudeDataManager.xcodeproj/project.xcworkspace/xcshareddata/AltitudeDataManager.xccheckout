@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>15E2823C-A624-49C3-B5F3-3BE561BA3FB2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AltitudeDataManager</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F2B0F0438340595C167CC884A2D32E825948C84B</key>
+		<string>https://github.com/PabloAlejandro/AltitudeDataManager.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AltitudeDataManager/AltitudeDataManager.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F2B0F0438340595C167CC884A2D32E825948C84B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/PabloAlejandro/AltitudeDataManager.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F2B0F0438340595C167CC884A2D32E825948C84B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F2B0F0438340595C167CC884A2D32E825948C84B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AltitudeDataManager</string>
+		</dict>
+	</array>
+</dict>
+</plist>
